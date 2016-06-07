@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+#cameras-bg {
+	background-image: url(assets/photography-camera-hd-wallpaper1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center 0%;
+}
+.intro_paragraph {
+	color: rgba(255,255,255,1.00);
+}
+#DC100 {
+	margin-top: 2em;
+	border-style: dashed;
+	border-color: rgba(0,0,0,0.38);
+	border-radius: 26px;
+	float: left;
+	margin-left: 2em;
+	margin-right: 1em;
+
+
+
+}
+#DC250 {
+	margin-top: 2em;
+	border-style: dashed;
+	border-radius: 26px;
+	border-color: rgba(0,0,0,0.38);
+	float: left;
+	margin-right: 1em;
+	margin-left: 2em;
+}
+#DC500 {
+	margin-top: 2em;
+	border-style: dashed;
+	border-radius: 26px;
+	border-color: rgba(0,0,0,0.38);
+	float: left;
+	margin-right: 1em;
+	margin-left: 2em;
+}

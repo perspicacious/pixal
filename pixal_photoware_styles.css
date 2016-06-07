@@ -1,0 +1,11 @@
+@charset "utf-8";
+#photoware-bg {
+	background-image: url(assets/paint-splash-wallpaper-hd.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.intro_paragraph {
+	color: rgba(0,0,0,1.00);
+	overflow-x: hidden;
+}
